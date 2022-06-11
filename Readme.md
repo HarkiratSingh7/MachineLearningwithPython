@@ -1,6 +1,10 @@
 # Machine Learning with Python Project
 These projects were completed as the part of the final project of my Quantum Learnings Machine Learning Internship Training Program.
 
+Notebook: [Jupyter Notebook File](./Machine%20Learning%20with%20Python%20Project.ipynb)
+
+PDF Report: [LaTex Generated Report](./PDF%20Report%20Machine%20Learning%20with%20Python%20Project.pdf)
+
 ## Project Details
 These are the 4 projects that are covered in this notebook.
 
